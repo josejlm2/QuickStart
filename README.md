@@ -1,2 +1,2 @@
 # QuickStart
-Quick Start on Development
+Checkout the wiki. 
